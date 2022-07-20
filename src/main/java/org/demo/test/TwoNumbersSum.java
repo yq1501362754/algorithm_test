@@ -1,7 +1,6 @@
 package org.demo.test;
 
-import java.util.List;
-import javafx.beans.binding.ListBinding;
+
 import org.junit.jupiter.api.Test;
 
 
